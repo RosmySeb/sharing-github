@@ -1,4 +1,4 @@
-### sharing-github (this is for my reference). i am adding a newline.
+### Sharing-github This is for my reference).I am adding a newline.
 
 adding more
 Will try funk and mre and gone
